@@ -10,6 +10,6 @@ hey, these are my dotfiles on my main PC!
     *terminal: xfce4-terminal
     *fetch: neofetch
     *bar: polybar
-    *screenshot tool: flameshot
+    *screenshot tool: shutter
 
 # credits to @hexa69 for the polybar
