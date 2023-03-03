@@ -12,4 +12,4 @@ hey, these are my dotfiles on my main PC!
     *bar: polybar
     *screenshot tool: shutter
 
-# credits to @hexa69 for the polybar
+# credits to @heksaa for the polybar
